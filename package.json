@@ -1,0 +1,15 @@
+{
+  "name": "newyear-lottery",
+  "version": "1.0.0",
+  "description": "Новогодняя лотерея с 16 билетами и предсказаниями",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["newyear", "lottery", "christmas", "2025"],
+  "author": "Алина",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
